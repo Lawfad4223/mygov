@@ -1,0 +1,15 @@
+.btn {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 0rem;
+    margin-right: 2rem;
+}
+.bod{
+    padding-right: .10rem;
+   
+}
+
+.topbod{
+    padding-left: 2rem;
+}
+
